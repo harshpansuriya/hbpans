@@ -229,10 +229,9 @@ export default function Page() {
                                 >
                                     with a direct question on twitter
                                 </Link>{" "}
-                                and I&apos;ll respond whenever I can. I will
-                                ignore all soliciting. Or subscribe my
-                                newsletter right now by just entering your email
-                                id.
+                                and I'll respond whenever I can. I will ignore
+                                all soliciting. Or subscribe my newsletter right
+                                now by just entering your email id.
                             </p>
                             <div className="relative flex h-[70px] w-full flex-row gap-5 items-center justify-center overflow-hidden rounded-lg border bg-background md:shadow-xl px-10 py-5">
                                 <input
